@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Subhanshu Gupta.
-- Software developer with 7 years of experience in IT industry, currently working with IQVIA on  Developing and Implementing systems which work in Pharmacovigilance space.
+- Software developer with 9 years of experience in IT industry, currently working with IQVIA on  Developing and Implementing systems which work in Pharmacovigilance space.
 - Adept at analyzing, authenticating and modeling data set to improve business operational productivity. Highly competent in using statistical analysis for Data driven marketing and growth strategy to drive business.
 - Hands-on experience in data science with strong statistical analytic capabilities and the ability to work with a variety of data environments with expertise in Regression, Classification, and Clustering problems using machine learning. 
 
