@@ -4164,3 +4164,7 @@ input, select, textarea {
 				flex: 1 1 100%; /* One tile per row on the smallest screens */
 			}
 		}
+		.profile-picture {
+			max-width: 250px; /* Maximum width */
+			height: auto; /* Maintain aspect ratio */
+		}
